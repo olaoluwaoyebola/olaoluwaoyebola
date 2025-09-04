@@ -27,6 +27,7 @@ Hi there! I'm a passionate Data Analyst with a strong curiosity for uncovering i
 
 - [Sales Performance Dashboard (Power BI)](https://github.com/olaoluwaoyebola/power-BI)
 - [Customer Churn Analysis (Python)](https://github.com/olaoluwaoyebola/cognifyztechnology)
+- [Online pharmacy (MySQL)](https://github.com/olaoluwaoyebola/online-pharmacy-system)
 
 ### 📫 Let's Connect
 
